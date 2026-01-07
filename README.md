@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Giovani!👋</h2>
+<h2 align="left">Olá, eu sou o Gio!</h2>
 
 ###
 
