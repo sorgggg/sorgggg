@@ -8,16 +8,20 @@
 
 ### Sobre mim
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas e estou sempre fazendo cursos para aprender cada vez mais.
-  
-### Contato
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=giotpamighini@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanitoledo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+>_Atualmente cursando Análise e Desenvolvimento de Sistemas._ <br/>
 
 ##
 
-<div style="display: inline_block">
+### Contato
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=giotpamighini@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovanitoledo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
+
+### Stacks
+
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/c/c-original.svg" align="left" height="30" width="40" alt="c logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original-wordmark.svg" align="left" height="30" width="40" alt="html5 logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original-wordmark.svg" align="left" height="30" width="40" alt="css3 logo"  />
