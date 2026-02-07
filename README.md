@@ -6,9 +6,7 @@
 
 </div>
 
-### Sobre mim
-
->_Atualmente cursando Análise e Desenvolvimento de Sistemas._ <br/>
+### 
 
 ##
 
@@ -19,14 +17,7 @@
 
 ##
 
-### Stacks
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/c/c-original.svg" align="left" height="30" width="40" alt="c logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original-wordmark.svg" align="left" height="30" width="40" alt="html5 logo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original-wordmark.svg" align="left" height="30" width="40" alt="css3 logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" align="left" height="30" width="40" alt="windows logo"  />
-</div>
+### 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sorgggg/sorgggg/output/github-contribution-grid-snake-dark.svg">
